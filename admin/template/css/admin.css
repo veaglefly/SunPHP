@@ -1,0 +1,90 @@
+/*** ADMIN CSS***/
+.header{
+	width:100%;
+	height:40px;
+	background:#333333;
+}
+.header_logo{
+	width:159px;
+	height:39px;
+	border-right:1px solid #222222;
+	border-bottom:1px solid #222222;
+}
+.header_logo a{
+	font-family:"Microsoft YaHei";
+	font-size:22px;
+	font-weight:700;
+	color:#0082bf;
+	display:block;
+	padding-left:20px;
+	line-height:40px;
+	text-decoration:none;
+}
+.header_center{
+	height:40px;
+	border-left:1px solid #444444;
+}
+.header_infor li{
+	height:40px;
+	line-height:40px;
+	float:left;
+	padding:0 10px;
+}
+.header_infor li a{
+	color:#dddddd;
+}
+.main_side{
+	width:160px;
+	background:#333333;
+	overflow:hidden;
+}
+.main_side_main{
+	width:160px;
+	border-bottom:1px solid #444444;
+	color:#dddddd;
+}
+.main_side_main h1{
+	width:140px;
+	height:30px;
+	border-top:1px solid #444444;
+	border-bottom:1px solid #222222;
+	background:#333333;
+	font-size:12px;
+	line-height:29px;
+	cursor:pointer;
+	padding-left:20px;
+}
+.main_side_main li{
+	width:160px;
+	height:30px;
+	border-top:1px solid #222222;
+	border-bottom:1px solid #222222;
+	background:#222222;
+	line-height:29px;
+}
+.main_side_main li a{
+	width:140px;
+	height:30px;
+	color:#dddddd;
+	display:block;
+	padding-left:20px;
+}
+.main_side_main li:hover{
+	background:#006699;
+	border-top:1px solid #006699;
+}
+.main_main{
+	overflow:auto;
+}
+.main_main_main{
+	padding:15px;
+}
+.main_main_main table td{
+	padding:5px;
+}
+
+.main_main_main a{color:#006699;}
+.countview{width:900px; border-top:1px solid #dddddd;}
+.countview_item{border-bottom:1px dotted #dddddd; padding:20px 0;}
+.countview_item_left{width:100px;}
+.countview_item_left_num{width:50px; height:50px; background:#444444; color:#ffffff; line-height:50px; font-size:20px; font-weight:700; text-align:center;}
