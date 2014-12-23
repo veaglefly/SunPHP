@@ -9,5 +9,5 @@ SunPHP是一款轻量级的开发框架<br />
 
 安装：<br />
 1.拷贝项目到WEB目录中<br />
-2.将test.sql导入mysql中<br />
-3.修改./sun/config/global.php有关数据库的相关配置<br />
+2.将test.sql导入mysql<br />
+3.修改./sun/config/global.php有关数据库的配置<br />
